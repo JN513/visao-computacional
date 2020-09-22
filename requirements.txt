@@ -1,0 +1,11 @@
+tensorflow
+pytest
+requests
+opencv-python
+numpy
+Cython
+codecov
+pytest-cov
+pytesseract
+tesseract-ocr
+wand
