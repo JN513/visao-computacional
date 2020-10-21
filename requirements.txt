@@ -9,3 +9,7 @@ pytest-cov
 pytesseract
 tesseract-ocr
 wand
+sklearn
+imutils
+matplotlib
+PIL
